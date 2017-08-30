@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_login"
+        android:icon="@drawable/common_google_signin_btn_text_light"
+        android:title="@string/menu_login">
+    </item>
+
+    <item
+        android:id="@+id/action_logout"
+        android:icon="@drawable/common_google_signin_btn_text_light"
+        android:title="@string/menu_logout">
+    </item>
+
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/common_google_signin_btn_text_light"
+        android:title="@string/menu_cart">
+    </item>
+
+</menu>
+
